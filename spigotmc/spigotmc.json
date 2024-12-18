@@ -1,10 +1,6 @@
 {
     "Image": "docker.io/itzloghotxd/java:latest",
       "AltImages": [
-        "docker.io/itzloghotxd/java:21",
-        "docker.io/itzloghotxd/java:17",
-        "docker.io/itzloghotxd/java:16",
-        "docker.io/itzloghotxd/java:11",
         "docker.io/itzloghotxd/java:8"
       ],
       "Cmd": "",
